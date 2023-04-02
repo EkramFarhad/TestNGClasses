@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/ekramfarhad/Desktop/Syntax/TestNG/src/test/java/Class02/DataProviderExample.java">
+        <classes>
+           <class name="Class01.enableDisable"></class>
+            <class name="Class01.Priority"></class>
+
+        </classes>
+    </test>
+</suite>

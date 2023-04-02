@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/ekramfarhad/Desktop/Syntax/TestNG/src/test/java/Class04/Listener.java">
+        <classes>
+            <class name="Class04.annotation02"/>
+            <class name="Class04.annotationBeforeClass"/>
+        </classes>
+    </test>
+</suite>
